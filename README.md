@@ -23,6 +23,7 @@ This app allows users to browse and stream a wide variety of movies. Whether you
 ![image](https://github.com/pacisjules/imovie/assets/51479761/34eb1b7f-8357-4a82-b885-da62d9d7d389)
 *Best Year Actors Check*
 
+## Get a mapping Sample Code
 ``` javascript
 <Text
               style={{
